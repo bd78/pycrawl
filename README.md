@@ -1,3 +1,3 @@
 #PyCrawl
 
-A simple crawler written in python and using  the project **Scrappy**
+A simple crawler written in python and using  the project **Scrapy**
